@@ -16,7 +16,7 @@ function App (){
     name="E-commerce"
     description="Build an end-to-end Ecommerce App"
     />
-    <project name="Netflix clone" description="Built a nice Netflix clone">
+    <project name="Netflix clone" description="Built a nice Netflix clone"/>
     <project name="Game" description="Create a 2D Javascript Game"/>
     </>
   );
